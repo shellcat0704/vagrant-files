@@ -1,0 +1,10 @@
+# temporary files
+*.swp
+*~
+
+# vagrant machine files
+.vagrant/
+
+# shared directories
+bundles/**/shared/
+
